@@ -1,0 +1,8 @@
+.chest__container{
+    height:40px;
+    width:40px;
+    border-width:2px;
+    margin-left: 850px;
+    margin-top:-100px;
+    background-color: transparent;
+}

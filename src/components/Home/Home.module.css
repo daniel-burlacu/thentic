@@ -1,0 +1,35 @@
+
+
+.home {
+    text-align: center;
+    position:relative;
+}
+
+.home__container{
+  background-image: url("../../assets/images/rooms/room1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 800px;
+
+  padding-left: 1170px;
+  height: 400px;
+  width: 400px;
+}
+
+.home__h1{
+    font-size:100px;
+    color:black;
+}
+  
+.home__logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+
+.home_title {
+    font-size: 200px;
+    display: none;
+    color:black;
+  }
+

@@ -1,0 +1,11 @@
+.user__container{
+    height:396px;
+    width:100px;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    margin-left: 1188px;
+    margin-top:-400px;
+    overflow-y: scroll;
+    background-color: rgb(9, 124, 170);
+}

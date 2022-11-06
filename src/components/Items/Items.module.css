@@ -1,0 +1,21 @@
+.container__book{
+    margin-left: -1580px;
+    padding-top:295px;
+}
+
+.container__chest{
+    margin-left:200px;
+    margin-top:-120px;
+}
+
+.items__book{
+    position:flex;
+    height: 50px;
+    width: 50px;
+}
+.items__chest{
+
+    position:flex;
+    height: 100px;
+    width: 100px;
+}

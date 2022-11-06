@@ -1,0 +1,13 @@
+.chest__container{
+    height:80px;
+    width:80px;
+    border-width:2px;
+    margin-left: 850px;
+    margin-top:-100px;
+    background-color: transparent;
+}
+
+.img__chest{
+    height:80px;
+    width:80px;
+}
